@@ -13,6 +13,7 @@ Clone this repository and install the requirements:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+Or visit this link https://techin510-lab02-pcuomhbpzcj9vppxxdfff8.streamlit.app/
 ## Lesson Learned
 - Interactive Visualizations: The use of Streamlit for creating dynamic, interactive visualizations emphasized the impact of interactivity in data exploration.
 - Data Filtering: Implementing sliders and dropdowns for data filtering showcased the importance of user-driven data exploration tools.

@@ -14,6 +14,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 Or visit this link https://techin510-lab02-pcuomhbpzcj9vppxxdfff8.streamlit.app/
+
+## Project Example Overview
+![Screenshot 2024-04-02 164028](https://github.com/Jingyii800/techin510-lab02/assets/112589476/ae8c1994-a2d0-4c1a-b84f-e49b23e13127)
+
 ## Lesson Learned
 - Interactive Visualizations: The use of Streamlit for creating dynamic, interactive visualizations emphasized the impact of interactivity in data exploration.
 - Data Filtering: Implementing sliders and dropdowns for data filtering showcased the importance of user-driven data exploration tools.

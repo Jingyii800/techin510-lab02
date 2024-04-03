@@ -23,4 +23,8 @@ Or visit this link https://techin510-lab02-pcuomhbpzcj9vppxxdfff8.streamlit.app/
 - Data Filtering: Implementing sliders and dropdowns for data filtering showcased the importance of user-driven data exploration tools.
 - Altair for Charting: The application of Altair for generating charts highlighted the ease and effectiveness of Python libraries in data visualization.
 - Lessons in Data Analysis: Working with the Iris dataset reinforced fundamental data analysis skills, particularly in distinguishing characteristics between groups.
-- Coding Practices: The project underscored best practices in coding for data science, including readability, modularity, and documentation.
+
+## Questions/Future improvements
+- Enhance User Interaction: Develop more sophisticated filtering options to allow users to perform deeper data analysis.
+- Improve Visualization: Experiment with more complex visualization types and interactivity to uncover additional insights.
+- Mobile Responsiveness: Optimize the app's layout and performance for mobile devices.
